@@ -1,0 +1,13 @@
+package yang.practice.springtcpserver;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringTcpServerApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringTcpServerApplication.class, args);
+	}
+
+}

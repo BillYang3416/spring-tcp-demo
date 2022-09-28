@@ -1,0 +1,7 @@
+tcp:
+  server:
+    address: '127.0.0.1'
+    port: 1234
+  client:
+    timeout: 5000
+    poolSize: 3
